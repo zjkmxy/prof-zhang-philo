@@ -20,3 +20,4 @@ THE READER ACCEPTS ALL STATEMENTS PROVIDED AS IS, WITHOUT ANY WARRANTY; WITHOUT
 1. (About IPv6) The market is not going to spend a single penny when the existing system works.
 1. I know Sunday is Sunday, but graduate students work on Sunday.
 1. You cannot simply say the compatibility is important without inspecting why.
+1. Proof of authority only proves you are you, without proving that you are honest.
