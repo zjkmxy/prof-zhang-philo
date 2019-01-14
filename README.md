@@ -21,3 +21,5 @@ THE READER ACCEPTS ALL STATEMENTS PROVIDED AS IS, WITHOUT ANY WARRANTY; WITHOUT
 1. I know Sunday is Sunday, but graduate students work on Sunday.
 1. You cannot simply say the compatibility is important without inspecting why.
 1. Proof of authority only proves you are you, without proving that you are honest.
+1. There are always intuitions in protocol design, but not proofs.
+1. Do not use any hardware-based examples in protocol specification, because hardware changes too fast.
