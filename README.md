@@ -23,3 +23,6 @@ THE READER ACCEPTS ALL STATEMENTS PROVIDED AS IS, WITHOUT ANY WARRANTY; WITHOUT
 1. Proof of authority only proves you are you, without proving that you are honest.
 1. There are always intuitions in protocol design, but not proofs.
 1. Do not use any hardware-based examples in protocol specification, because hardware changes too fast.
+1. (About blockchain) In peer-to-peer scenario, there is always a question to be settled: "Why should I help you?"
+1. Writing down a problem is half of a paper. You wirte down the difficulty and people will pay attention to that. The industry people need to know what need to be improved.
+1. Don't plan to do writing later. Later your thought is going to fade.
