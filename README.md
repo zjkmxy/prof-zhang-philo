@@ -26,3 +26,4 @@ THE READER ACCEPTS ALL STATEMENTS PROVIDED AS IS, WITHOUT ANY WARRANTY; WITHOUT
 1. (About blockchain) In peer-to-peer scenario, there is always a question to be settled: "Why should I help you?"
 1. Writing down a problem is half of a paper. You wirte down the difficulty and people will pay attention to that. The industry people need to know what need to be improved.
 1. Don't plan to do writing later. Later your thought is going to fade.
+1. Congestion is something abnormal. That's why I dislike congestion control fairness. The network is not always congeted and the complex mechanism itself becomes a factor of attack.
