@@ -29,3 +29,4 @@ THE READER ACCEPTS ALL STATEMENTS PROVIDED AS IS, WITHOUT ANY WARRANTY; WITHOUT
 1. Congestion is something abnormal. That's why I dislike congestion control fairness. The network is not always congeted and the complex mechanism itself becomes a factor of attack.
 1. (About security) Whatever protocol you use, you must start with something shared.
 1. Sleep is No.1, I agree.
+1. (About paper writing) When you don't have time to write a short one, write a long one.
