@@ -1,7 +1,8 @@
 # Philosophies of Professor
 
-Philosophies, quotes and mottos from the professor.
-No need to provide every sentence exactly the same.
+Philosophies, quotes and mottos from the professor.  
+No need to provide every sentence exactly the same.  
+Suggest to put similar things together without chronological order.
 
 
 THE READER ACCEPTS ALL STATEMENTS PROVIDED AS IS, WITHOUT ANY WARRANTY; WITHOUT
@@ -23,9 +24,12 @@ THE READER ACCEPTS ALL STATEMENTS PROVIDED AS IS, WITHOUT ANY WARRANTY; WITHOUT
 1. Proof of authority only proves you are you, without proving that you are honest.
 1. There are always intuitions in protocol design, but not proofs.
 1. Do not use any hardware-based examples in protocol specification, because hardware changes too fast.
-1. (About blockchain) In peer-to-peer scenario, there is always a question to be settled: "Why should I help you?"
+1. (Self Interests in blockchain)
+    - In peer-to-peer scenario, there is always a question to be settled: "Why should I help you?"
+    - If I have to do this, what's the benefit?
 1. Writing down a problem is half of a paper. You wirte down the difficulty and people will pay attention to that. The industry people need to know what need to be improved.
 1. Don't plan to do writing later. Later your thought is going to fade.
 1. Congestion is something abnormal. That's why I dislike congestion control fairness. The network is not always congeted and the complex mechanism itself becomes a factor of attack.
 1. (About security) Whatever protocol you use, you must start with something shared.
 1. Sleep is No.1, I agree.
+1. There are two kinds of constraints: physical limitation and artifacts of today's product. Point out which.
