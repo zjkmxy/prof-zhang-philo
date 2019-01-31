@@ -31,6 +31,10 @@ THE READER ACCEPTS ALL STATEMENTS PROVIDED AS IS, WITHOUT ANY WARRANTY; WITHOUT
 1. Don't plan to do writing later. Later your thought is going to fade.
 1. Congestion is something abnormal. That's why I dislike congestion control fairness. The network is not always congeted and the complex mechanism itself becomes a factor of attack.
 1. (About security) Whatever protocol you use, you must start with something shared.
-1. Sleep is No.1, I agree.
+1. (Junxiao said that) Sleep is No.1, I agree.
 1. (About paper writing) When you don't have time to write a short one, write a long one.
 1. There are two kinds of constraints: physical limitation and artifacts of today's product. Point out which.
+1. (Routing protocol)
+    - Routing & forwarding is the essence of networking - how we deliver from anyone to anyone.
+    - Every node is blind. They can't see anything. That's why they always chat.
+1. An address is a special case of a name only given to interfaces. A name is its generalization which is given to everything.
