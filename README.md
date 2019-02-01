@@ -10,31 +10,32 @@ THE READER ACCEPTS ALL STATEMENTS PROVIDED AS IS, WITHOUT ANY WARRANTY; WITHOUT
  SHOULD KNOW, OR AGREE WITH ANY WORDS PROVIDED.
 
 
-1. When people collaborate, there will be conflicts.
-1. CS is not physics. There is no Bible telling people what to do. All designs face TRADE-OFFs.
-1. People write articles to express what lessons they learned. Not only results but the insights why we get results should be included.
-1. (About ALOHAnet) Simple systems used to be robust.
-1. (About OSI) Trials & Errors vs Thought Design.
-1. (About hICN) People tend to use mature systems. And you cannot ask all end-users speak your protocol. Thus, the battlefield of NDN is edge computing, not CDN.
-1. (About ndn-repo) Do not generalize. We shouldn't invent requirements.
-1. (About subnet) What's changed is not the format but interpreting, given the fact all devices had implemented the format.
-1. (About IPv6) The market is not going to spend a single penny when the existing system works.
-1. I know Sunday is Sunday, but graduate students work on Sunday.
-1. You cannot simply say the compatibility is important without inspecting why.
-1. Proof of authority only proves you are you, without proving that you are honest.
-1. There are always intuitions in protocol design, but not proofs.
-1. Do not use any hardware-based examples in protocol specification, because hardware changes too fast.
-1. (Self Interests in blockchain)
+* When people collaborate, there will be conflicts.
+* CS is not physics. There is no Bible telling people what to do. All designs face TRADE-OFFs.
+* People write articles to express what lessons they learned. Not only results but the insights why we get results should be included.
+* (About ALOHAnet) Simple systems used to be robust.
+* (About OSI) Trials & Errors vs Thought Design.
+* (About hICN) People tend to use mature systems. And you cannot ask all end-users speak your protocol. Thus, the battlefield of NDN is edge computing, not CDN.
+* (About ndn-repo) Do not generalize. We shouldn't invent requirements.
+* (About subnet) What's changed is not the format but interpreting, given the fact all devices had implemented the format.
+* (About IPv6) The market is not going to spend a single penny when the existing system works.
+* I know Sunday is Sunday, but graduate students work on Sunday.
+* You cannot simply say the compatibility is important without inspecting why.
+* Proof of authority only proves you are you, without proving that you are honest.
+* There are always intuitions in protocol design, but not proofs.
+* Do not use any hardware-based examples in protocol specification, because hardware changes too fast.
+* (Self Interests in blockchain)
     - In peer-to-peer scenario, there is always a question to be settled: "Why should I help you?"
     - If I have to do this, what's the benefit?
-1. Writing down a problem is half of a paper. You wirte down the difficulty and people will pay attention to that. The industry people need to know what need to be improved.
-1. Don't plan to do writing later. Later your thought is going to fade.
-1. Congestion is something abnormal. That's why I dislike congestion control fairness. The network is not always congeted and the complex mechanism itself becomes a factor of attack.
-1. (About security) Whatever protocol you use, you must start with something shared.
-1. (Junxiao said that) Sleep is No.1, I agree.
-1. (About paper writing) When you don't have time to write a short one, write a long one.
-1. There are two kinds of constraints: physical limitation and artifacts of today's product. Point out which.
-1. (Routing protocol)
+* Writing down a problem is half of a paper. You wirte down the difficulty and people will pay attention to that. The industry people need to know what need to be improved.
+* Don't plan to do writing later. Later your thought is going to fade.
+* Congestion is something abnormal. That's why I dislike congestion control fairness. The network is not always congeted and the complex mechanism itself becomes a factor of attack.
+* (About security) Whatever protocol you use, you must start with something shared.
+* (Junxiao said that) Sleep is No.1, I agree.
+* (About paper writing) When you don't have time to write a short one, write a long one.
+* There are two kinds of constraints: physical limitation and artifacts of today's product. Point out which.
+* (Routing protocol)
     - Routing & forwarding is the essence of networking - how we deliver from anyone to anyone.
     - Every node is blind. They can't see anything. That's why they always chat.
-1. An address is a special case of a name only given to interfaces. A name is its generalization which is given to everything.
+* An address is a special case of a name only given to interfaces. A name is its generalization which is given to everything.
+* Slow start is a golden rule for everything.
