@@ -39,3 +39,8 @@ THE READER ACCEPTS ALL STATEMENTS PROVIDED AS IS, WITHOUT ANY WARRANTY; WITHOUT
     - Every node is blind. They can't see anything. That's why they always chat.
 * An address is a special case of a name only given to interfaces. A name is its generalization which is given to everything.
 * Slow start is a golden rule for everything.
+* The human nature is to overly generalize, which is not good for system design. 
+* (Application driven)
+    - If you only write papers, you won't know whether it actually works.
+    - Academic guys do systematic stydies and operators solve problems (in a quick and dirty way), so there are so many "Operators' Hack" today.
+* NDN doesn't promise security, but it offers blocks to build a secure system.
