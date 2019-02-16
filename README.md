@@ -49,3 +49,6 @@ THE READER ACCEPTS ALL STATEMENTS PROVIDED AS IS, WITHOUT ANY WARRANTY; WITHOUT
 * If you want to convinse the reviewers, convince yourself first.
 * Write a paper in the eyes of readers. Don't just say what you want to talk.
 * (HOSTS.TXT) One thing human definitely do is making errors. So there's a very important problem: who's in charge of what.
+* For each successful thing, know what factors lead to its success.
+* Performance is the result of operations, not design.
+    - How could you measure the speed when you are designing the upper protocol, without even knowing the connection under it?
