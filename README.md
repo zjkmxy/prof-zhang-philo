@@ -46,9 +46,15 @@ THE READER ACCEPTS ALL STATEMENTS PROVIDED AS IS, WITHOUT ANY WARRANTY; WITHOUT
 * Human by its nature is overly generalized, not good for system design.
 * It's the end-users but not big companies who control the future. That's why Internet and Ethernet are not killed.
 * Read books. You really should learn knowledge from the history.
+* Paper is a byproduct.
 * If you want to convinse the reviewers, convince yourself first.
 * Write a paper in the eyes of readers. Don't just say what you want to talk.
 * (HOSTS.TXT) One thing human definitely do is making errors. So there's a very important problem: who's in charge of what.
 * For each successful thing, know what factors lead to its success.
 * Performance is the result of operations, not design.
     - How could you measure the speed when you are designing the upper protocol, without even knowing the connection under it?
+* But I'll tell you the whole Internet lives on our own money. The aggregation doesn't work that much today.
+* (About DNSSEC)
+    - You should ask "Where things go wrong?"
+    - The real world is not simply Alice talking to Bob.
+    - In that days people know nothing about "immutable data".
