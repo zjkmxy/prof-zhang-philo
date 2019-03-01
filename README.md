@@ -1,7 +1,7 @@
 # Philosophies of Professor
 
-Philosophies, quotes and mottos from the professor.  
-No need to provide every sentence exactly the same.  
+Philosophies, quotes and mottos from the professor.
+No need to provide every sentence exactly the same.
 Suggest to put similar things together without chronological order.
 
 
@@ -58,3 +58,4 @@ THE READER ACCEPTS ALL STATEMENTS PROVIDED AS IS, WITHOUT ANY WARRANTY; WITHOUT
     - You should ask "Where things go wrong?"
     - The real world is not simply Alice talking to Bob.
     - In that days people know nothing about "immutable data".
+* Privacy is a losing battle.
