@@ -41,13 +41,13 @@ THE READER ACCEPTS ALL STATEMENTS PROVIDED AS IS, WITHOUT ANY WARRANTY; WITHOUT
 * Slow start is a golden rule for everything.
 * (Application driven)
     - If you only write papers, you won't know whether it actually works.
-    - Academic guys do systematic stydies and operators solve problems (in a quick and dirty way), so there are so many "Operators' Hack" today.
+    - Academic guys do systematic studies and operators solve problems (in a quick and dirty way), so there are so many "Operators Hack" today.
 * NDN doesn't promise security, but it offers blocks to build a secure system.
 * Human by its nature is overly generalized, not good for system design.
 * It's the end-users but not big companies who control the future. That's why Internet and Ethernet are not killed.
 * Read books. You really should learn knowledge from the history.
 * Paper is a byproduct.
-* If you want to convinse the reviewers, convince yourself first.
+* If you want to convince the reviewers, convince yourself first.
 * Write a paper in the eyes of readers. Don't just say what you want to talk.
 * (HOSTS.TXT) One thing human definitely do is making errors. So there's a very important problem: who's in charge of what.
 * For each successful thing, know what factors lead to its success.
