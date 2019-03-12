@@ -59,3 +59,7 @@ THE READER ACCEPTS ALL STATEMENTS PROVIDED AS IS, WITHOUT ANY WARRANTY; WITHOUT
     - The real world is not simply Alice talking to Bob.
     - In that days people know nothing about "immutable data".
 * Privacy is a losing battle.
+* (DDoS) The problem is it's getting worse with time, and we don't have solutions better than 20 years ago.
+* You must not depend on lower layer's error reports for high-layer normal functioning, because it's optional.
+* Devil hides in details.
+* Nothing is for free. How they make money from you?
