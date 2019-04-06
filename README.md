@@ -63,3 +63,6 @@ THE READER ACCEPTS ALL STATEMENTS PROVIDED AS IS, WITHOUT ANY WARRANTY; WITHOUT
 * You must not depend on lower layer's error reports for high-layer normal functioning, because it's optional.
 * Devil hides in details.
 * Nothing is for free. How they make money from you?
+* The basic NDN idea is Data = Name + Content + Signature.
+* (Packet switching) Reliable system should be made out of unreliable pieces.
+* (RIP vs Baran's FIB) All routing protocols do flooding, so the data don't need to do so.
