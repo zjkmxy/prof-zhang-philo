@@ -67,3 +67,4 @@ THE READER ACCEPTS ALL STATEMENTS PROVIDED AS IS, WITHOUT ANY WARRANTY; WITHOUT
 * (Packet switching) Reliable system should be made out of unreliable pieces.
 * (RIP vs Baran's FIB) All routing protocols do flooding, so the data don't need to do so.
 * Whatever artifacts designed by human not only can be changed, but will be changed. This is because you design something at a given time, based on what you have. But technology advances.
+* DNS is not about trust, it's about uniqueness.
