@@ -27,7 +27,7 @@ THE READER ACCEPTS ALL STATEMENTS PROVIDED AS IS, WITHOUT ANY WARRANTY; WITHOUT
 * (Self Interests in blockchain)
     - In peer-to-peer scenario, there is always a question to be settled: "Why should I help you?"
     - If I have to do this, what's the benefit?
-* Writing down a problem is half of a paper. You wirte down the difficulty and people will pay attention to that. The industry people need to know what need to be improved.
+* Writing down a problem in half of a paper. You write down the difficulty and people will pay attention to that. The industry people need to know what need to be improved.
 * Don't plan to do writing later. Later your thought is going to fade.
 * Congestion is something abnormal. That's why I dislike congestion control fairness. The network is not always congeted and the complex mechanism itself becomes a factor of attack.
 * (About security) Whatever protocol you use, you must start with something shared.
