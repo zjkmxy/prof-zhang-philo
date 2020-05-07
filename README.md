@@ -68,3 +68,10 @@ THE READER ACCEPTS ALL STATEMENTS PROVIDED AS IS, WITHOUT ANY WARRANTY; WITHOUT
 * (RIP vs Baran's FIB) All routing protocols do flooding, so the data don't need to do so.
 * Whatever artifacts designed by human not only can be changed, but will be changed. This is because you design something at a given time, based on what you have. But technology advances.
 * DNS is not about trust, it's about uniqueness.
+* (Babysitting) Leave it there. Spoiling is the real problem.
+* It's not who's doing better. It's about the insights: interpreting the results.
+* Think of best solution we could have, not what we have now.
+* If there are multiple solutions, finally only one will be chosen.
+* Routers do multicast, so user data do not need to.
+* The only methods to provide reliability are repeating, acknowledge, both.
+* Do meaningful work. Don't just write for reviewers.
