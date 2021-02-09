@@ -75,3 +75,4 @@ THE READER ACCEPTS ALL STATEMENTS PROVIDED AS IS, WITHOUT ANY WARRANTY; WITHOUT
 * Routers do multicast, so user data do not need to.
 * The only methods to provide reliability are repeating, acknowledge, both.
 * Do meaningful work. Don't just write for reviewers.
+* Let's forget the result from what have discussed last time or what we have implemented. We need to focus what is right.
